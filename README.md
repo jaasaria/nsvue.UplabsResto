@@ -6,6 +6,11 @@
 <img src="https://github.com/jaasaria/ns.UplabsChallenge/raw/master/screenshots/ns.gif" alt="screenshot" style="max-width:100%;">
 
 
+## Playground
+https://play.nativescript.org/?template=play-vue&id=sPOHNo&v=30
+
+
+
 ## Usage
 
 ``` bash
@@ -21,6 +26,3 @@ tns debug <platform> --bundle
 # Build, watch for changes and run the application
 tns run <platform> --bundle
 ```
-
-
-https://github.com/jaasaria/ns.UplabsChallenge/raw/master/screenshots/ns.gif
