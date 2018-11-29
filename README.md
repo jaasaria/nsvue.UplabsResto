@@ -2,6 +2,10 @@
 
 > A native application built with NativeScript-Vue
 
+## Screenshot
+<img src="https://github.com/jaasaria/ns.UplabsChallenge/raw/master/screenshots/ns.gif" alt="screenshot" style="max-width:100%;">
+
+
 ## Usage
 
 ``` bash
