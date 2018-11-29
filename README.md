@@ -17,3 +17,6 @@ tns debug <platform> --bundle
 # Build, watch for changes and run the application
 tns run <platform> --bundle
 ```
+
+
+https://github.com/jaasaria/ns.UplabsChallenge/raw/master/screenshots/ns.gif
