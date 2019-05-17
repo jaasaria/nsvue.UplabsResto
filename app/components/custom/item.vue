@@ -6,9 +6,11 @@
             <Image stretch="aspectFill" class="card-img" @tap="onClickButton()"
                 :src="item.cover" />
             <GridLayout  width="100%" columns="auto,*" rows="auto,auto"
-                class="" verticalAlignment="center">
+                class="m-t-5 m-b-5" verticalAlignment="center">
+
                 <Label :text="categoryIcon | fonticon" row="0" col="0"
                     rowSpan="2" :backgroundColor="item.categoryTag" class="fa category-icon" />
+
                 <Label row="0" col="1" class="item-name" textwrap="true"
                     verticalAlignment="bottom" horizontalAlignment="left"
                     :text="item.name" />
